@@ -30,3 +30,19 @@ A page declared with home layout will list all posts located in '_posts' folder.
 ```
 layout: home
 ```
+
+## Paths
+
+### Minimum Metadata
+
+No perm url has been applied, thus will not be included in blog folder.
+
+Generated page path:
+
+``2021/07/11/minimum.html``
+
+Image path would be considered from root folder.
+
+``images/images/img1.jpg``
+
+![Meeting](images/img1.jpg)  
