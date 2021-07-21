@@ -21,6 +21,12 @@ permalink: blog/post-permanent-link
 
 Happy coding!
 
+## Blog Syntax
 
+### Layouts (Home)
 
+A page declared with home layout will list all posts located in '_posts' folder.
 
+```
+layout: home
+```
