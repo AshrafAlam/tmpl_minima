@@ -1,0 +1,21 @@
+title: Ashraf Alam
+google_analytics: UA-9386106-7
+
+linkedin_username: ashrafalam
+github_username:  ashrafalam
+devto_username: ashrafalam
+twitter_username: ashrafulalam
+rss: rss
+
+show_excerpts: true
+ 
+theme: minima
+header_pages:
+  - members/index.md
+  - blog/index.md
+  - connect.md
+  
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
